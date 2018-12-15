@@ -40,10 +40,10 @@ export class LoginComponent implements OnInit {
     }
   }
 
-  public smLogin() {
+  public login() {
     sessionStorage.setItem('userID', this.user);
     sessionStorage.setItem('fName', 'fName');
-    this.router.navigate(['/home']);
+    this.router.navigate(['/landingPage']);
   }
 
   public onInputChange(formField) {
