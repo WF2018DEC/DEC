@@ -1,0 +1,30 @@
+.bg {
+    background:url('./../../assets/images/login_bg.png') no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.image1 {
+    background:url('./../../assets/images/banner01.png') no-repeat;
+    width: 100vw;
+    height: 87vh;
+    background-size: cover;
+}
+.image2 {
+    background:url('./../../assets/images/banner02.png') no-repeat;
+    width: 100vw;
+    height: 87vh;
+    background-size: cover;
+}
+.image3 {
+    background:url('./../../assets/images/banner03.png') no-repeat;
+    width: 100vw;
+    height: 87vh;
+    background-size: cover;
+}
+.image4 {
+    background:url('./../../assets/images/banner04.png') no-repeat;
+    width: 100vw;
+    height: 87vh;
+    background-size: cover;
+}

@@ -3,3 +3,6 @@ body, html {
 	padding: 0px;
 	min-height: 100%;
 }
+.clearfix {
+	overflow: auto;
+}
